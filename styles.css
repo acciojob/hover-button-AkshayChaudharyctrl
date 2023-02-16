@@ -3,8 +3,8 @@ button{
 	color: white;
 	border-radius:5px;
 	}
-.my-btn:hover{
-	border:none;
+#btn.my-btn:hover{
+	border:0px none rgb(255, 255, 255);
 	backround-color: yellow;
 	color: black;
 	border-radius: 30px;
